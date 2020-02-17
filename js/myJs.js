@@ -101,7 +101,7 @@ $('#yes').click(function() {
               no-repeat
             `,
         showCancelButton: true,
-        cancelButtonText: " Vẫn là gửi cho tớ  :<<",
+        cancelButtonText: " Vẫn là gửi cho tớ, nhưng không bấm được đâu, bấm ô kia kìa  :<<",
         confirmButtonColor: '#3085d6',
         cancelButtonColor: '#d33',
         confirmButtonColor: '#fe8a71',
