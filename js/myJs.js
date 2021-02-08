@@ -117,7 +117,7 @@ $('#yes').click(function() {
                 text: "Tối nay nhắn tin với tớ nhaaaaaaaaa :v Còn giờ thì chờ gì nữa mà ko inbox cho tớ đi nàoooooo",
                 confirmButtonColor: '#83d0c9',
                 onClose: () => {
-                    window.location = 'http://www.facebook.com/dohaidang32241';
+                    window.location = 'http://www.facebook.com/dohaidang32241/';
                   }
             })
         }
